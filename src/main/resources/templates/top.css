@@ -1,0 +1,10 @@
+.col-sm-4 {
+    border: 1px #ccc solid;
+    text-align: center;
+  }
+  ​
+  .col-sm-3{
+      border: 1px dimgray solid;
+      text-align: center;
+      color: lightgray;
+  }
